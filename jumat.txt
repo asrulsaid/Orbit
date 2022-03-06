@@ -1,0 +1,81 @@
+menggunakan built-in functions
+membuat user-defined functions
+memahami generators, menggunakan map dan filter functions
+memahami string manipulation
+memahami bagaimana menggunakan reading, writing, dan appending data ke sebuah file di python
+
+user-defined function, fungsi yang dibuat sendiri oleh pengguna
+built-in function, fungsi yang sudah tersedia sejak menginstall python sehingga tidak perlu membuat fungsi lagi
+lambda function, fungsi anonim/tanpa nama, digunakan untuk mendefinisikan logika sederhana
+
+fungsi adalah sekumpulan statement/baris program yang kita perlukan untuk melakukan eksekusi sesuatu.
+- memiliki argumen dan menghasilkan output
+- di python ditulis -> def
+- hasil dari function -> return
+
+# iterators
+generator, fungsi yg tdk mengembalikan nilai tunggal, melainkan mengembalikan
+objek iterator dengan urutan nilai. biasanya menggunakan yield statement daripada
+return statement.
+- membantu dalam menghemat memori
+
+map, menerima fungsi lain dan urutan 'iterables'
+memberikan output setelah menerapkan fungsi ke setiap iterable dalam urutan.
+
+filter, digunakan untuk menghasilkan daftar keluaran nilai yang mengembalikan
+true saat fungsi dipanggil.
+
+lambda, fungsi yg tdk memiliki nama.
+digunakan untuk merepresentasikan eskpresi pendek u/ waktu yg singkat.
+secara tampilan tdk terlihat sebagai fungsi.
+jika fungsi biasa harus membuat nama fungsi, maka lambda tidak perlu
+
+string manipulation
+
+file IO
+open digunakan untuk menulis, membaca, menambah data ke file
+
+buat file IO
+bikin nota (write, append)
+buat program ada function, data handling, string manipulation.
+
+Try - Except - Else - Finally
+Try : kode yg akan dieksekusi
+Except : kode dieksekusi jika trdapat kesalahan
+Else : kode dieksekusi jika tdk terdpt kesalahan
+Finally : kode yg akan selalu dijalankan di akhir
+
+program development life cycle
+1. problem definition
+2. problem analysis
+3. algorithm development
+4. coding & documentation
+5. testing & debugging
+6. maintenance
+
+dasar penyusunan algoritma
+1. finiteness
+2. definiteness
+3. masukan
+4. keluaran
+5. efektivitas
+algoritma: input -> procedure -> output
+
+flowchart, untuk menentukan aliran program
+
+jenis struktur dasar algoritma
+1. sequence (runtutan)
+2. selection (pemilihan)
+3. repetition (pengulangan)
+
+syarat algoritma efisien:
+1. tidak menghabiskan memori yg besar
+2. cepat
+3. bisa dihitung menggunakan Big O (n)
+
+Big O (n) digunakan untuk menghitung kompleksitas algoritma
+
+tugas sore:
+install github
+buat repo
+kumpul dlm bentuk screenshot
